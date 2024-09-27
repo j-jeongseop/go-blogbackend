@@ -1,4 +1,4 @@
-module github.com/happynet78/go-blogbackend
+module github.com/happynet78/goblogbackend
 
 go 1.22.5
 

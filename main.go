@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v3"
-	"github.com/happynet78/go-blogbackend/database"
-	"github.com/happynet78/go-blogbackend/routes"
+	"github.com/happynet78/goblogbackend/database"
+	"github.com/happynet78/goblogbackend/routes"
 	"github.com/joho/godotenv"
 	"log"
 	"os"
